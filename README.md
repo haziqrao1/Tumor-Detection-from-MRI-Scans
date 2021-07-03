@@ -1,0 +1,2 @@
+# Tumor-Detection-from-MRI-Scans
+Introduction: A brain tumor classification model has been developed by the team. The model is capable of detecting tumors from MRI scans with a high accuracy but not completely a hundred percent accuracy. This project was chosen with advancement of contributions of computer science in the medical field. Also the medical industry in Pakistan is a major market for such a model. Such models reduce costs and increase revenue for the medical industry by a significant degree
